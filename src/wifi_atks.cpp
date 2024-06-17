@@ -231,7 +231,7 @@ char* randomSSID() {
 
 char emptySSID[32];
 const char Beacons[] PROGMEM = {
-  "Mom Use This One\n"
+  "Annen burada\n"
   "Abraham Linksys\n"
   "Benjamin FrankLAN\n"
   "Martin Router King\n"
